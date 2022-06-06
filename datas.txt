@@ -1,0 +1,4 @@
+Product,Price,Quantity,Total
+ram 12 1 12
+ramen 1 1 1
+ramen not in stockramen not in stock
